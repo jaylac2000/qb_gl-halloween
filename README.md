@@ -1,4 +1,4 @@
-# qbgl-halloween
+# qb_gl-halloween
 
 I WILL NOT BE OFFERING SUPPORT FOR THIS
 
