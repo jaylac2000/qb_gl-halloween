@@ -4,7 +4,7 @@ I WILL NOT BE OFFERING SUPPORT FOR THIS
 
 PULL REQUESTS WELCOME
 
-[Original Script:](https://forum.cfx.re/t/free-trick-or-treat-script/4769297)
+Original Script: [https://forum.cfx.re/t/free-trick-or-treat-script/4769297]
 
 Original Author: Kallock
 
