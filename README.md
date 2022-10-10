@@ -12,9 +12,7 @@ Most Credits for convert: Rex
 
 Some stuff done by me such as everything below
 
-Install:
-
-- If you need this help, shut down your server... you shouln't be running one
+Install: If you need this help, shut down your server... you shouln't be running one
 
 - I added ADDON FILES
 - I properly put everything everywhere
